@@ -42,6 +42,7 @@ I'm a passionate Full Stack Web Developer and Software Engineering student at Da
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+   <img src="https://img.shields.io/badge/DaisyUI-4A4AFF?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
 </p>
 
 
