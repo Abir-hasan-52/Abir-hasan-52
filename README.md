@@ -64,6 +64,13 @@ I'm a passionate Full Stack Web Developer and Software Engineering student at Da
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
+
+### Deployment & Hosting
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+</p>
 ---
 
 ## 🌐 Connect with Me
