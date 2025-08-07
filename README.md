@@ -103,7 +103,7 @@ I'm a passionate Full Stack Web Developer and Software Engineering student at Da
   <img src="https://github-readme-stats.vercel.app/api?username=Abir-hasan-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-hasan-52&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abir-hasan-52&theme=radical&hide_border=false" alt="GitHub Streak" />
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-hasan-52&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
