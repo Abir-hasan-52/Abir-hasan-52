@@ -1,5 +1,3 @@
-# GitHub Profile README.md
-
  
 <!-- Banner Image -->
 <div align="center">
