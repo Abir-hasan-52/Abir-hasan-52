@@ -1,4 +1,4 @@
-<img src="[https://your-banner-image-url.com](https://i.ibb.co.com/zVQ537D4/Black-and-Gold-Elegant-Personal-Linked-In-Banner.png)" alt="Banner" width="100%"/>
+<img src="https://i.ibb.co.com/zVQ537D4/Black-and-Gold-Elegant-Personal-Linked-In-Banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Abir Hasan Mahmud</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Software Engineering Student at DIU</h3>
