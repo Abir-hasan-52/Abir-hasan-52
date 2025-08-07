@@ -1,9 +1,9 @@
 # GitHub Profile README.md
 
-markdown
+ 
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </div>
 
 <!-- Name & Designation -->
