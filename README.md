@@ -18,7 +18,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Web Developer and Software Engineering student at Daffodil International University. I love creating dynamic web applications and exploring new technologies. When I'm not coding, you'll find me playing cricket or working on my next exciting project.
+Hi, I’m Abir Hasan Mahmud — a passionate Full Stack Developer from Dhaka, Bangladesh.
+I love building web applications using modern technologies like React, Node.js, and Tailwind CSS.
+Currently, I’m exploring Next.js and TypeScript, and working on projects that combine usability with clean design.
+
+I’m always eager to learn new skills and collaborate on open-source projects. Let’s connect!
 
 ---
 
