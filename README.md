@@ -25,7 +25,7 @@ I'm a passionate Full Stack Web Developer and Software Engineering student at Da
 ## 🔭 Current Activities
 
 - 🌱 I'm currently exploring **Next.js** and modern React patterns
-- 💻 I'm working on a **Tourism Website** project
+- 💻 I'm working on a **E-commerce** project
 - 🎯 Learning advanced **MongoDB** aggregation pipelines  
 - 📚 Studying **Software Engineering** at Daffodil International University
 - 🏏 Playing cricket in my free time
