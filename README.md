@@ -1,7 +1,7 @@
  
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://i.ibb.co.com/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" hight="100%" />
 </div>
 
 <!-- Name & Designation -->
