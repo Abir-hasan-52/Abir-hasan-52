@@ -84,6 +84,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 
 ## 🌐 Connect with Me
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ah-abir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -94,10 +95,11 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
   <a href="mailto:abirhasan5208@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Abir-hasan-52" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Abir-hasan-52?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
 </p>
+
 
 
 
