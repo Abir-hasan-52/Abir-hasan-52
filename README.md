@@ -27,7 +27,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 
 ## 🔭 Current Activities
 
-- 🌱 I'm currently exploring **Next.js** and modern React patterns
+- 🌱 I'm currently exploring **Next.js**,**TypeScript** and modern React patterns
 - 💻 I'm working on a **E-commerce** project
 - 🎯 Learning advanced **MongoDB** aggregation pipelines  
 - 📚 Studying **Software Engineering** at Daffodil International University
