@@ -5,7 +5,7 @@
 </div>
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer </h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
