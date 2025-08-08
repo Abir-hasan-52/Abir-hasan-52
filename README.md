@@ -1,9 +1,8 @@
  
-<!-- Banner Image -->
+ <!-- Banner Image -->
 <div align="center">
-  <img src="https://i.ibb.co.com/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" hight="100%" />
+  <img src="https://i.ibb.co/LDMvJfnm/Blue-Brown-White-Modern-Web-Developer-Linked-In-Banner-1.png" alt="Banner" width="100%" height="100%" />
 </div>
-
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Abir</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
